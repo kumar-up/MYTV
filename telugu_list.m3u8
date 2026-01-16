@@ -149,3 +149,15 @@ https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=6cb002bda4755a7965f58a9fd4fe7104cdf3f8c5-a17bbd6b0db40c461249735ae269422d-1768560834-1768557234
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD (1080p)" group-title="Sports",Star Sports 1 Hindi HD (1080p)
 http://103.178.78.151:7505/play/a1bw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768565597&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9834c5ccb4032f3ad6fe027bab7cb301
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768565599&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2046b9e51d6629a5f6b96aaad52cfa20
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768565618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3906a84e499ef8e769da8daebe226443
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7b7657e80ebdf37cfb348891ee4be0550cd79a7a-a079ffb7a289053885ef459b1ffdb766-1768567428-1768563828
+
