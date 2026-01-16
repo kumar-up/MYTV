@@ -131,33 +131,33 @@ http://103.167.255.18:8085/play/a0jj/index.m3u8
 http://103.167.255.18:8085/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD",Sony Sports Ten 5 (1080p)
 http://103.178.78.151:7505/play/a1qa/index.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
+https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=MX3PvfxhayS5nzFySsKmAQ&expires=1768570898
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1",Star Sports 1 Hindi
+https://d3.merichunidya.com:1686/hls/starhindi.m3u8?md5=2hetGNzQizgAqKDVWDR9bg&expires=1768570898
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1",Willow HD
+https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=Y1XIsP0LkgKdMDyzinW4rQ&expires=1768570898
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1",Willow HD 2
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=DCz6hxTNZsBuJC6pDUJy7w&expires=1768570898
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
-https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=uofK5_3CZjhwernxjn9vTQ&expires=1768564141
+https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=MX3PvfxhayS5nzFySsKmAQ&expires=1768570898
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="Sports",Star Sports 1 Hindi
-https://d3.merichunidya.com:1686/hls/starhindi.m3u8?md5=XKHwtlHjCyc7KVwHmdSxIg&expires=1768564141
+https://d3.merichunidya.com:1686/hls/starhindi.m3u8?md5=2hetGNzQizgAqKDVWDR9bg&expires=1768570898
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=Y1XIsP0LkgKdMDyzinW4rQ&expires=1768570898
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=DCz6hxTNZsBuJC6pDUJy7w&expires=1768570898
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
 https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1768565604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5f3ce472b780e248f2e75bf915f96792
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768565618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3906a84e499ef8e769da8daebe226443
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
 https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1768565629&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e970d9e37feb9e6e551ba00ac4ba39f
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=2c5a3b18d79f6e635b05a30801ef078a790a2118-684d20cbd6ee61674703ba2badba082a-1768560834-1768557234
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=2663e7149b01ce8cf64f6eddcc0c8eeca1848b2f-f6b35116ae6d78651580777f6992a5ed-1768567428-1768563828
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=8d1b77552688390a71b388468cb535fc20b8fe72-cfbf26a00b463e010729e5a7cb4a932d-1768560834-1768557234
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=ab9a2758bbc13add67bcd5d14f8b71c58c774267-c6581691d8aa333ac83a3a2cb510be75-1768567428-1768563828
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="sports",star sports select 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=80936f4d8d38371d014c90581bcd28dafe8e3675-de52b76b23dbb2ff6781ef6726f7bf98-1768560834-1768557234
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=da2183e64ee54c304119dc2eb28ba3293326d2a7-7d2a4646b5555b3d0d439bba73be37de-1768567428-1768563828
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="sports",star sports select 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=6cb002bda4755a7965f58a9fd4fe7104cdf3f8c5-a17bbd6b0db40c461249735ae269422d-1768560834-1768557234
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD (1080p)" group-title="Sports",Star Sports 1 Hindi HD (1080p)
-http://103.178.78.151:7505/play/a1bw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768565597&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9834c5ccb4032f3ad6fe027bab7cb301
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1768565599&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2046b9e51d6629a5f6b96aaad52cfa20
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768565618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3906a84e499ef8e769da8daebe226443
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7b7657e80ebdf37cfb348891ee4be0550cd79a7a-a079ffb7a289053885ef459b1ffdb766-1768567428-1768563828
-
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=3d7e6e456fb4082e53ba096a72f7e477eac9572f-99cdb307eeea89b51b9d95b5bc91dc0b-1768567428-1768563828
